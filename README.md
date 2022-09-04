@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Derill Sebiraj👋🏻</h1>
-<div align="right"><img  src="https://giphy.com/embed/RbDKaczqWovIugyJmW" href="https://github.com/sp-xd"  width="300px"/></div>
-<h5>I'm a AI/ML Enthusiast.</h3>
-<h5>Currently pursuing Btech in CSE AI/ML at SRM University KTR</h5>
+<h5>I'm a AI/ML Enthusiast.I am Currently pursuing Btech in CSE AI/ML at SRM University KTR</h3>
 <p >I'm a hard working individiual and have a craving for knowledge in any form possible. I leave no stone unturned to complete the tasks which i've been assigned with.</p> 
     
     
